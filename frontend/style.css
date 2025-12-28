@@ -253,7 +253,7 @@ header h1 {
 .source-link {
     display: inline-block;
     color: #1e293b; /* Dark text for contrast */
-    background-color: #fef08a; /* Light yellow background */
+    background-color: #bfdbfe; /* Light blue background */
     text-decoration: none;
     padding: 0.4rem 0.8rem;
     border-radius: 1rem; /* Pill shape */
@@ -264,7 +264,7 @@ header h1 {
 }
 
 .source-link:hover {
-    background-color: #fde047; /* Brighter yellow on hover */
+    background-color: #3b82f6; /* Dark blue on hover */
     transform: translateY(-1px);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
@@ -284,7 +284,7 @@ header h1 {
 
 /* Visited link styling */
 .source-link:visited {
-    background-color: #fbbf24; /* Amber/gold background for visited links */
+    background-color: #60a5fa; /* Medium blue background for visited links */
     color: #1e293b; /* Keep dark text */
 }
 
